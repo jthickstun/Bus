@@ -141,7 +141,7 @@
 .	.	.	.	.	2G/	.	.	.	.
 1r	.	.	.	.	1A	.	2f/	-si	.
 .	.	.	.	.	.	.	2.d/	tost	.
-1BB	qu'el-	.	1D	tost	1D	qu’el-	.	.	.
+1BB	qu'el-	.	1D	tost	1D	qu'el-	.	.	.
 .	.	.	.	.	.	.	4e/	.	.
 .	.	.	.	.	.	.	[2f/	qu'el-	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16
@@ -313,10 +313,10 @@
 1AA	.	.	.	.	1E	.	.	.	.
 .	.	.	.	.	.	.	2c#i/	.	.
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49
-*^	*	*	*	*	*	*	*	*	*
-0Dl\	0Al/	-re.	-re.	0A]	.	0Dl	-re.	0dl	-re.	-re.
-*v	*v	*	*	*	*	*	*	*	*	*
-==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!
+!!*^	*	*	*	*	*	*	*	*	*
+0Dl\ 0Al/	-re.	-re.	0A]	.	0Dl	-re.	0dl	-re.	-re.
+!!*v	*v	*	*	*	*	*	*	*	*	*
+==:|!50	==:|!50	==:|!50	==:|!50	==:|!50	==:|!50	==:|!50	==:|!50	==:|!50	==:|!50
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
@@ -325,4 +325,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2015/10/30/
 !!!ONB:	Translated from MusicXML and edited on 2015/10/30/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v85,85,85,120Q16z18c46l2600
+!!muse2ps: C^@{COM}^i2I150v85,85,85,120z18l2600Q16c46
