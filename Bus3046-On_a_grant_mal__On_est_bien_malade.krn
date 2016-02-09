@@ -103,8 +103,7 @@
 .	.	.	4B/
 .	.	.	4A/
 =18	=18	=18	=18
-!LO:TX:Z=24:t=[s.c.]	!LO:TX:Z=24:t=[s.c.]	!LO:TX:Z=24:t=[s.c.]	!LO:TX:Z=24:t=[s.c.]
-1C	1r	1e	1c
+1CNy	1rNy	1eNy	1cNy
 1F	1A	1d	1r
 =19	=19	=19	=19
 2.E\	2G/	1c	0r
@@ -251,6 +250,7 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
 !!!ENC:	Chris Gage 04-15-2015
 !!!END:	2015/05/12/
 !!!EED:	Jesse Rodin

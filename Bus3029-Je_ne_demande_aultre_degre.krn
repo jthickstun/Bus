@@ -155,8 +155,7 @@
 1C	.	1G	.
 .	.	.	2e/
 =29	=29	=29	=29
-!	!	!LO:TX:Z=17:t=[s.c.]	!
-1.D	1A	1F	2.f/
+1.D	1A	1FNy	2.f/
 .	.	.	4g/
 .	2F\	1r	2a/
 [2BB-/	[2B-\	.	[2d/
@@ -164,14 +163,12 @@
 2BB-/]	4B-\]	0r	2d/]
 .	4A\	.	.
 4AA/	1F	.	4c/
-!LO:TX:Z=12:t=[s.c.]	!	!	!
-4GG/	.	.	4B-/
+4GG/Ny	.	.	4B-/
 1FF	.	.	2.d/
 .	4E\	.	.
 .	4D\	.	4c/
 =31	=31	=31	=31
-!	!LO:TX:Z=16:t=[s.c.]	!	!LO:TX:Z=18:t=[s.c.]
-0r	1C	0r	1A
+0r	1CNy	0r	1ANy
 .	1r	.	1r
 =32	=32	=32	=32
 1F	1FF	0c	0r
@@ -378,6 +375,7 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
 !!!ENC:	Chris Gage 04-20-2015
 !!!END:	2015/05/05/
 !!!EED:	Jesse Rodin

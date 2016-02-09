@@ -189,8 +189,7 @@
 1D	2.f/	2.dd\
 .	4g/	4ee\
 =34	=34	=34
-!LO:TX:Z=25:t=s.c.	!LO:TX:Z=17:t=s.c.	!LO:TX:Z=18:t=s.c.
-1A	1e	1cc
+1AN	1eN	1ccN
 1r	1r	1r
 =35	=35	=35
 1D	0d	0dd
@@ -306,6 +305,7 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
 !!!ENC:	Chris Gage 02-10-2015
 !!!END:	2015/02/20/
 !!!EED:	Jesse Rodin

@@ -112,8 +112,7 @@
 .	4c#i\	.
 .	4Bni\	.
 =13	=13	=13
-!LO:TX:Z=14:t=s.c.	!LO:TX:Z=15:t=s.c.	!LO:TX:Z=19:t=s.c.
-2D\	0d	0.d
+2D\N	0dN	0.dN
 1G	.	.
 2F\	.	.
 2G\	1r	.
@@ -230,6 +229,7 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
 !!!ENC:	Chris Gage 02-10-2015
 !!!END:	2015/02/20/
 !!!EED:	Jesse Rodin

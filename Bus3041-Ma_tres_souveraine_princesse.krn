@@ -15,7 +15,7 @@
 *M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-
-!	!	!LO:TX:Z=55:t=Rondeau
+!	!	!LO:TX:Z=12:t=Rondeau
 0GG	0r	0g
 =2	=2	=2
 1AA	1r	1f
@@ -128,8 +128,7 @@
 .	.	4g/
 .	.	4f/
 =26	=26	=26
-!LO:TX:Z=20:t=s.c.	!LO:TX:Z=25:t=s.c.	!LO:TX:Z=19:t=s.c.
-[0AA	0c	[0e
+[0AAN	0cN	[0eN
 =27	=27	=27
 0AA]	1r	0e]
 .	1c	.
@@ -252,6 +251,7 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
 !!!ENC:	Chris Gage 04-13-2015
 !!!END:	2015/05/06/
 !!!EED:	Jesse Rodin

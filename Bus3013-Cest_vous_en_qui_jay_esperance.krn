@@ -357,8 +357,7 @@
 !!LO:REP:start=1
 =57	=57	=57
 *>B1	*>B1	*>B1
-!LO:TX:Z=13:t=s.c.	!LO:TX:Z=13:t=s.c.	!LO:TX:Z=13:t=s.c.
-1A]	1c	1e
+1A]N	1cN	1eN
 !!LO:REP:end=1
 !!LO:REP:start=2
 =58:|!	=58:|!	=58:|!
@@ -375,6 +374,7 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
 !!!ENC:	Chris Gage 04-02-2015
 !!!END:	2015/05/01/
 !!!EED:	Jesse Rodin

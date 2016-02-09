@@ -122,8 +122,7 @@
 .	2c\	2e-/
 .	2A/	2c/
 =20	=20	=20
-!	!	!LO:TX:Z=13:t=s.c.
-1.GG	2G/	1B-
+1.GG	2G/	1B-N
 .	2d\	.
 .	2e\	1r
 2FF/	2f\	.
@@ -212,6 +211,7 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
 !!!ENC:	Chris Gage 04-20-2015
 !!!END:	2015/05/05/
 !!!EED:	Jesse Rodin

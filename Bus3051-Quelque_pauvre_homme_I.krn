@@ -126,8 +126,7 @@
 1D	1A	.
 .	.	2f#i/
 =16	=16	=16
-!LO:TX:Z=27:t=[s.c.]	!LO:TX:Z=13:t=[s.c.]	!LO:TX:Z=22:t=[s.c.]
-1G	1G	2.g/
+1GNy	1GNy	2.g/Ny
 .	.	4f/
 2F\	1r	2.a/
 1E	.	.
@@ -240,6 +239,7 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
 !!!ENC:	Chris Gage 04-17-2015
 !!!END:	2015/05/12/
 !!!EED:	Jesse Rodin

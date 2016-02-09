@@ -146,8 +146,7 @@
 .	.	2f/
 .	.	2e-/
 =38	=38	=38
-!LO:TX:Z=17:t=s.c.	!LO:TX:Z=10:t=s.c.	!LO:TX:Z=17:t=s.c.
-[0G	[0B-	0d
+[0GN	[0B-N	0dN
 =39	=39	=39
 0G]	0B-]	0r
 =40	=40	=40
@@ -264,6 +263,7 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
 !!!ENC:	Chris Gage 02-12-2015
 !!!END:	2015/02/20/
 !!!EED:	Jesse Rodin

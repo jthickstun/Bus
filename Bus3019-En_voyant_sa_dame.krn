@@ -113,8 +113,7 @@
 4E\	2B-\	4g/
 4D\	.	4f/
 =18	=18	=18
-!LO:TX:Z=13:t=[s.c.]	!LO:TX:Z=13:t=[s.c.]	!LO:TX:Z=13:t=[s.c.]
-1C	[0c	0e
+1CNy	[0cNy	0eNy
 2r	.	.
 [2C/	.	.
 =19	=19	=19
@@ -233,6 +232,7 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
 !!!ENC:	Chris Gage 04-13-2015
 !!!END:	2015/05/03/
 !!!EED:	Jesse Rodin

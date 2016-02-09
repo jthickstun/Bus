@@ -155,11 +155,9 @@
 =37	=37	=37
 [0D	0A	[0f#i
 =38	=38	=38
-!LO:TX:Z=22:t=s.c.	!	!LO:TX:Z=14:t=s.c.
-0D]	[0d	0f#]
+0D]N	[0d	0f#]N
 =39	=39	=39
-!	!LO:TX:Z=22:t=s.c.	!
-0r	0d]	0r
+0r	0d]N	0r
 =40	=40	=40
 0D	0d	0f
 =41	=41	=41
@@ -267,6 +265,7 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
 !!!ENC:	Chris Gage 04-22-2015
 !!!END:	2015/06/07/
 !!!EED:	Jesse Rodin

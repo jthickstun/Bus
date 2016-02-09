@@ -105,8 +105,7 @@
 1E	.	2g\	.
 .	.	2g\	2B-/
 =21	=21	=21	=21
-!	!	!	!LO:TX:Z=12:t=s.c.
-0D	1d	1f	1d
+0D	1d	1f	1dN
 .	2d\	1d	1B-
 .	2d\	.	.
 =22	=22	=22	=22
@@ -236,6 +235,7 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
 !!!ENC:	Chris Gage 04-15-2015
 !!!END:	2015/05/12/
 !!!EED:	Jesse Rodin
