@@ -18,6 +18,8 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O.)	*met(O)	*met(O)
+*MM252	*MM252	*MM252	*MM252
+!!primary-mensuration: met(O)
 !!section: Patrem omnipotentem
 !!!OMD: Patrem omnipotentem
 *	*rscale:1/2	*	*
@@ -450,6 +452,8 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(O2)	*met(O.)	*met(O2)	*met(O2)
+*MM336	*MM336	*MM336	*MM336
+!!primary-mensuration: met(O2)
 !!section: Et incarnatus est
 !!!OMD: Et incarnatus est
 *	*rscale:1/4	*	*
@@ -983,6 +987,7 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M4/1	*M6/1	*M4/1	*M4/1
 *met(C|r)	*met(C.)	*met(C|r)	*met(C|r)
+**MM448	**MM448	**MM448	**MM448
 !!section: Confiteor unum baptisma
 !!!OMD: Confiteor unum baptisma
 !!LO:TX:X=-40:Z=8:t=Reverse Cut-C mensuration

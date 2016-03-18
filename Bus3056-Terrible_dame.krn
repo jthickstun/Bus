@@ -15,6 +15,7 @@
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!	!	!	!	!LO:TX:X=-30:Z=14:t=Lower altus voice is editorial. (In Pix&eacute;r&eacute;court Chansonnier, ``fauxbourdon'' appears at start of discantus.)	!	!	!
 0C	Ter-	0r	.	0G\ 0c\	Ter-	0r	.
 =2	=2	=2	=2	=2	=2	=2	=2
 1E	-ri-	0r	.	1G\ 1c\	-ri-	0r	.
@@ -34,21 +35,21 @@
 1D	.	.	.	1F 1B	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6
 1C	-me:	1r	.	1G\ 1c\	-me:	1r	.
-1r	.	1g	Que	1r	.	1b\ 1ee\	Que
+1r	.	1g	Que	1r	.	1ee\	Que
 =7	=7	=7	=7	=7	=7	=7	=7
-0r	.	1.a	vous	0r	.	1.cc\ 1.ff\	vous
-.	.	4g\	.	.	.	4b\ 4ee\	.
-.	.	4f\	.	.	.	4a\ 4dd\	.
+0r	.	1.a	vous	0r	.	1.ff\	vous
+.	.	4g\	.	.	.	4ee\	.
+.	.	4f\	.	.	.	4dd\	.
 =8	=8	=8	=8	=8	=8	=8	=8
-0r	.	2.a\	.	0r	.	2.cc\ 2.ff\	.
-.	.	4g\	.	.	.	4b\ 4ee\	.
-.	.	2e\	.	.	.	2g/ 2cc/	.
-.	.	[2g\	.	.	.	[2b\ [2ee\	.
+0r	.	2.a\	.	0r	.	2.ff\	.
+.	.	4g\	.	.	.	4ee\	.
+.	.	2e\	.	.	.	2cc\	.
+.	.	[2g\	.	.	.	[2ee\	.
 =9	=9	=9	=9	=9	=9	=9	=9
-0r	.	2g\]	.	0r	.	2b\] 2ee\]	.
-.	.	4f\	.	.	.	4a\ 4dd\	.
-.	.	4e\	.	.	.	4g/ 4cc/	.
-.	.	1d;	fault?	.	.	1f\; 1b\;	fault?
+0r	.	2g\]	.	0r	.	2ee\]	.
+.	.	4f\	.	.	.	4dd\	.
+.	.	4e\	.	.	.	4cc\	.
+.	.	1d;	fault?	.	.	1b\;	fault?
 =10	=10	=10	=10	=10	=10	=10	=10
 1.G	Je	0r	.	1.B\ 1.e\	Je	0r	.
 4F\	.	.	.	4A\ 4d\	.	.	.
@@ -68,22 +69,22 @@
 2F\	.	.	.	2A\ 2d\	.	.	.
 1D;	.	.	.	1F;\ 1B;\	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14
-0r	.	1.c	De	0r	.	1.g\ 1.cc\	De
-.	.	[2g\	.	.	.	[2b\ [2ee\	.
+0r	.	1.c	De	0r	.	1.cc\	De
+.	.	[2g\	.	.	.	[2ee\	.
 =15	=15	=15	=15	=15	=15	=15	=15
-0r	.	4g\]	.	0r	.	4b\] 4ee\]	.
-.	.	4f\	.	.	.	4a\ 4dd\	.
-.	.	2d\	.	.	.	2b\ 2f\	.
-.	.	2e\	.	.	.	2g/ 2cc/	.
-.	.	[2f\	.	.	.	[2a\ [2dd\	.
+0r	.	4g\]	.	0r	.	4ee\]	.
+.	.	4f\	.	.	.	4dd\	.
+.	.	2d\	.	.	.	2b\	.
+.	.	2e\	.	.	.	2cc\	.
+.	.	[2f\	.	.	.	[2dd\	.
 =16	=16	=16	=16	=16	=16	=16	=16
-1r	.	4f\]	.	1r	.	4a\] 4dd\]	.
-.	.	4e\	.	.	.	4g/ 4cc/	.
-.	.	4d\	.	.	.	4f/ 4b/	.
-.	.	4c\	.	.	.	4e/ 4a/	.
-1G	De	1d	.	1g	De	1f 1b	.
+1r	.	4f\]	.	1r	.	4dd\]	.
+.	.	4e\	.	.	.	4cc/	.
+.	.	4d\	.	.	.	4b/	.
+.	.	4c\	.	.	.	4a/	.
+1G	De	1d	.	1g	De	1b	.
 =17	=17	=17	=17	=17	=17	=17	=17
-1A	quoy?	0c;	quoy?	1e	quoy?	0c;\ 0cc;\	quoy?
+1A	quoy?	0c;	quoy?	1e	quoy?	0cc;\	quoy?
 1F;	.	.	.	1f;	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18
 0r	.	0r	.	0r	.	0r	.

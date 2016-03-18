@@ -17,7 +17,7 @@
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
 =1-	=1-	=1-	=1-
-!LO:TX:Y=28:t=Rex pacificus	!	!	!
+!LO:TX:Y=24:t=Rex pacificus	!	!	!
 0d	0G	1G	0g
 .	.	1B-	.
 1d	1D	[1A	2.f/
@@ -223,9 +223,9 @@
 =40	=40	=40	=40
 0c	0r	0g]	0cc
 =41	=41	=41	=41
-1.e	3%4c	1r	0r
+1.e	3%4cV	1r	0r
 .	.	[1g	.
-.	3%2G	.	.
+.	3%2GZ	.	.
 2d\	.	.	.
 =42	=42	=42	=42
 1e	1c	2g\]	0r
@@ -316,6 +316,6 @@
 !!!ENC:	Chris Gage 04-22-2015
 !!!END:	2016/02/08/
 !!!EED:	Jesse Rodin
-!!!EEV:	2016/02/08/
-!!!ONB:	Translated from MusicXML and edited on 2016/02/08/ by Craig Sapp
+!!!EEV:	2016/02/16/
+!!!ONB:	Translated from MusicXML and edited on 2016/02/16/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,85,85,150Q16c80
