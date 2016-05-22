@@ -987,7 +987,7 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M4/1	*M6/1	*M4/1	*M4/1
 *met(C|r)	*met(C.)	*met(C|r)	*met(C|r)
-**MM448	**MM448	**MM448	**MM448
+*MM448	*MM448	*MM448	*MM448
 !!section: Confiteor unum baptisma
 !!!OMD: Confiteor unum baptisma
 !!LO:TX:X=-40:Z=8:t=Reverse Cut-C mensuration
