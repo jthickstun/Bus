@@ -15,12 +15,13 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-
-!	!	!LO:TX:Y=69:t=On est bien malade	!LO:TX:Z=34:t=Rondeau ("On a grant mal" text)
-!	!	!	!LO:TX:Y=55:t=On a grant mal
+!!LO:TX:Z=34:t=Rondeau ("On a grant mal" text)
+!	!	!LO:TX:Y=22:t=On est bien malade	!
+!	!	!	!LO:TX:Y=22:t=On a grant mal
 0r	0r	1c	1g
 .	.	1c	1a
 =2	=2	=2	=2
-!	!LO:TX:Y=53:t=On est bien malade	!	!
+!	!LO:TX:Y=22:t=On est bien malade	!	!
 0r	1G	1d	1b
 .	1G	1e	1b
 =3	=3	=3	=3
@@ -30,7 +31,7 @@
 .	.	2d\	4b\
 .	.	.	4a/
 =4	=4	=4	=4
-!LO:TX:Y=59:t=On est bien malade	!	!	!
+!LO:TX:Y=22:t=On est bien malade	!	!	!
 1C	1.c	0e	2g/
 .	.	.	2.a/
 1C	.	.	.
